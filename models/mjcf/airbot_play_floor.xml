@@ -4,6 +4,17 @@
   <include file="airbot_play/airbot_play_options.xml"/>
   <include file="airbot_play/airbot_play_dependencies.xml"/>
 
+  <include file="object/mario_dependencies.xml"/>
+
+  <default>
+    <default class="obj_visual">
+      <geom group="2" type="mesh" contype="0" conaffinity="0"/>
+    </default>
+    <default class="obj_collision">
+      <geom group="3" condim="6" solimp="2 1 0.01" solref="0.001 10" friction="1 0.005 0.0001" type="mesh"/>
+    </default>
+  </default>
+
   <worldbody>
     <!-- ======= AITBOT PLAY ======= -->
     <body name="arm_pose" pos="0 0 0.78" euler="0 0 0">
@@ -17,6 +28,10 @@
       <geom size="0.02 0.02 0.385" pos="-0.28  0.56 0.385" type="box" contype="0" conaffinity="0" rgba="0.8 0.8 0.8 1" />
       <geom size="0.02 0.02 0.385" pos=" 0.28 -0.56 0.385" type="box" contype="0" conaffinity="0" rgba="0.8 0.8 0.8 1" />
       <geom size="0.02 0.02 0.385" pos="-0.28 -0.56 0.385" type="box" contype="0" conaffinity="0" rgba="0.8 0.8 0.8 1" />
+    </body>
+
+    <body name="mario" pos="0 1.03 0.6988">
+      <include file="object/mario.xml"/>
     </body>
 
   </worldbody>
@@ -33,8 +48,8 @@
     <include file="airbot_play/airbot_play_sensor.xml"/>
   </sensor>
 
-  <keyframe>
+  <!-- <keyframe>
     <key qpos='0 0 0 0 0 0 0 0'/>
-  </keyframe>
+  </keyframe> -->
 
 </mujoco>
