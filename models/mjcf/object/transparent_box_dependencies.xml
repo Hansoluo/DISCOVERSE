@@ -1,0 +1,20 @@
+<mujocoinclude>
+
+  <asset>
+    <mesh name="yd_box" file="obj/yidong_box/chouti.obj"/>
+    <mesh name="chouti_part_0" file="obj/yidong_box/chouti/part_0.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_1" file="obj/yidong_box/chouti/part_1.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_2" file="obj/yidong_box/chouti/part_2.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_3" file="obj/yidong_box/chouti/part_3.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_4" file="obj/yidong_box/chouti/part_4.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_5" file="obj/yidong_box/chouti/part_5.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_6" file="obj/yidong_box/chouti/part_6.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_7" file="obj/yidong_box/chouti/part_7.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_8" file="obj/yidong_box/chouti/part_8.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_9" file="obj/yidong_box/chouti/part_9.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_10" file="obj/yidong_box/chouti/part_10.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_11" file="obj/yidong_box/chouti/part_11.obj" scale="1 1 1"/>
+    <mesh name="chouti_part_12" file="obj/yidong_box/chouti/part_12.obj" scale="1 1 1"/>
+  </asset>
+
+</mujocoinclude>

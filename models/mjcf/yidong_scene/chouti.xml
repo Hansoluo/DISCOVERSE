@@ -1,0 +1,796 @@
+
+<mujocoinclude>
+
+            <body pos="-0.01 -0.130 0.065">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.108">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.151">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.194">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.237">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.280">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.323">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.366">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.409">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.452">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.495">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.538">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.581">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.624">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.667">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.710">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.753">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 -0.130 0.796">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.065">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.108">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.151">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.194">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.237">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.280">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.323">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.366">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.409">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.452">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.495">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.538">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.581">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.624">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.667">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.710">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.753">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+            <body pos="-0.01 0.130 0.796">
+                <inertial pos="0 0 0" mass="0.001" diaginertia="0.00002 0.00002 0.00002" />
+                <joint range='0 0.25' type='slide' axis='-1 0 0' frictionloss="0.01"/>
+                <geom type="mesh" mesh="yd_box" rgba="0.5 0.5 0.5 0.3" class="obj_visual"/>
+
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_0" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_1" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_2" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_3" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_4" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_5" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_6" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_7" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_8" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_9" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_10" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_11" class="obj_collision"/>
+                <geom type="mesh" rgba="0.5 0.5 0.5 0.3" mesh="chouti_part_12" class="obj_collision"/>
+
+            </body>
+
+        
+</mujocoinclude>
